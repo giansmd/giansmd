@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gian Franco Samana Ramirez</h1>
+<h1 align="center">Hi 👋, I'm Gian Samana</h1>
 <h3 align="center">A passionate developer from Peru</h3>
 
 - 🔭 I’m currently working on **Fullstack Web Developer** at **Matemath**
